@@ -1,0 +1,37 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body 
+{
+    background-size: cover;
+    background-position: center;
+}
+
+#g
+{
+    background-size: cover;
+    background-position: center;
+    background: linear-gradient(red, white);
+}
+
+canvas 
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    
+}
+
+#gg
+{
+    width: 40%;
+    height: 30px;
+}
